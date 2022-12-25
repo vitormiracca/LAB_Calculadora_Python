@@ -22,6 +22,7 @@ Esse projeto está sendo desenvolvido inicialmente com:
 
 - Melhorar as formatações dos tipos de dados (tanto nos resultados quanto nos imputs), pois o usuário pode querer fazer operação com decimais;
 - Adicionar novas operações (Potencia, raiz, logaritimos...);
-- Pensar em forma de disponibilizar isso com uma interface, se possível tudo em Python (sem html e css), para que as pessoas possam usar
+- Pensar em forma de disponibilizar isso com uma interface, se possível tudo em Python (sem html e css), para que as pessoas possam usar;
+- Tratamento de erros...;
 
 
